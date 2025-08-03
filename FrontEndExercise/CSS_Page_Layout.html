@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <header>Header</header>
+    <div class='columns'>
+        <nav>Navigation</nav>
+        <main>Main</main>
+        <aside>Sidebar</aside>
+    </div>
+    <footer>Footer</footer>
+</body>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        display: flex;
+        flex-direction: column;
+        min-height: 100vh;
+    }
+
+    h1 {
+        color: blue;
+    }
+
+    p {
+        font-size: 16px;
+    }
+
+    header {
+        background-color: aqua;
+        height: 50px;
+    }
+
+    footer {
+        background-color: chocolate;
+        height: 50px;
+    }
+
+    main {
+        background-color: darkgoldenrod;
+        flex-grow: 1;
+    }
+
+    nav {
+        background-color: coral;
+        flex-shrink: 0;
+        width: 100px;
+    }
+
+    aside {
+        background-color: sandybrown;
+        flex-shrink: 0;
+        width: 100px;
+    }
+
+    .columns {
+        display: flex;
+        flex-grow: 1;
+    }
+</style>
+
+</html>
