@@ -13,4 +13,8 @@ This folder is for reviewing and tracking your frontend test exercises. Use the 
 | Debounce Function   | JavaScript  | debounce, throttle, performance    | [Debounce](./Debounce.js)|
 | Rating Stars        | React       | Controlled components, state management | [RatingStars](./RatingStar.jsx) |
 | Price Change        | React       | useState, useEffect, setInternal, prop drilling | [PriceChange](./PriceChange.jsx) |
-
+| useFetch Hook       | React       | Custom hooks, data fetching, error handling | [useFetch](./UseFetch.js) |
+| large data table | React       | Virtualization, performance optimization | [LargeDataTable](./LargeDataTable.jsx) |
+| StarRating Component | React       | Controlled components, state management | [StarRating](./StarRating.jsx) |
+| Search With Debounce | React       | Debounce, input handling, performance | [SearchWithDebounce](./SearchWithDebounce.jsx) |
+| Infinite Scroll      | React       | Infinite scrolling, lazy loading      | [InfiniteScroll](./InfiniteScroll.jsx) |
