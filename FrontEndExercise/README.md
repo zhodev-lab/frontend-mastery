@@ -18,3 +18,4 @@ This folder is for reviewing and tracking your frontend test exercises. Use the 
 | StarRating Component | React       | Controlled components, state management | [StarRating](./StarRating.jsx) |
 | Search With Debounce | React       | Debounce, input handling, performance | [SearchWithDebounce](./SearchWithDebounce.jsx) |
 | Infinite Scroll      | React       | Infinite scrolling, lazy loading      | [InfiniteScroll](./InfiniteScroll.jsx) |
+| AutoComplete Input   | React       | highlighting, debounce, performance | [AutoCompleteInput](./AutoCompleteInput.jsx) |
