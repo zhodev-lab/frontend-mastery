@@ -20,3 +20,4 @@ This folder is for reviewing and tracking your frontend test exercises. Use the 
 | Infinite Scroll      | React       | Infinite scrolling, lazy loading      | [InfiniteScroll](./InfiniteScroll.jsx) |
 | AutoComplete Input   | React       | highlighting, debounce, performance | [AutoCompleteInput](./AutoCompleteInput.jsx) |
 | **Abort Fetch Requests** | React       | AbortController, fetch API, cleanup | [AbortFetchRequests](./SearchAbort.jsx) |
+| **Auto Complete** | React       | Debounce, AbortController, fetch API, cleanup | [AutoComplete](./AutoComplete.tsx) |
